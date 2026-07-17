@@ -1,0 +1,222 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/primary.swiftdeps"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/AppManagerApp.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppManagerApp.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppManagerApp.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppManagerApp~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppManagerApp.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppManagerApp.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Formatting.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Formatting.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Formatting.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Formatting~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Formatting.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Formatting.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/InstalledApp.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/InstalledApp.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/InstalledApp.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/InstalledApp~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/InstalledApp.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/InstalledApp.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/LeftoverFile.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/LeftoverFile.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/LeftoverFile.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/LeftoverFile~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/LeftoverFile.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/LeftoverFile.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/OrphanFile.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanFile.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanFile.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanFile~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanFile.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanFile.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/AppScanner.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppScanner.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppScanner.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppScanner~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppScanner.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppScanner.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/DirectorySize.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/DirectorySize.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/DirectorySize.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/DirectorySize~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/DirectorySize.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/DirectorySize.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/FileCleaner.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileCleaner.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileCleaner.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileCleaner~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileCleaner.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileCleaner.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/FileSystemPaths.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileSystemPaths.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileSystemPaths.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileSystemPaths~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileSystemPaths.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileSystemPaths.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/OrphanScanner.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanScanner.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanScanner.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanScanner~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanScanner.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanScanner.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/PermissionsChecker.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionsChecker.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionsChecker.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionsChecker~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionsChecker.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionsChecker.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Settings/AppSettings.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppSettings.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppSettings.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppSettings~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppSettings.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppSettings.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Theme.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Theme.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Theme.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Theme~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Theme.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Theme.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/ViewModels/AppListViewModel.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppListViewModel.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppListViewModel.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppListViewModel~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppListViewModel.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppListViewModel.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/ViewModels/OrphanListViewModel.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanListViewModel.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanListViewModel.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanListViewModel~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanListViewModel.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanListViewModel.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AboutView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AboutView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AboutView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AboutView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AboutView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AboutView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppDetailView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppDetailView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppDetailView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppDetailView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppDetailView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppDetailView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppRowView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppRowView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppRowView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppRowView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppRowView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppRowView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppsView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppsView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppsView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppsView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppsView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppsView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/AppIconView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppIconView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppIconView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppIconView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppIconView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppIconView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/ButtonStyles.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ButtonStyles.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ButtonStyles.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ButtonStyles~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ButtonStyles.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ButtonStyles.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/PermissionStatusBadge.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionStatusBadge.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionStatusBadge.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionStatusBadge~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionStatusBadge.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionStatusBadge.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/StatPill.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/StatPill.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/StatPill.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/StatPill~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/StatPill.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/StatPill.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/ToastView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ToastView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ToastView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ToastView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ToastView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ToastView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/FileRowView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileRowView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileRowView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileRowView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileRowView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileRowView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OnboardingView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OnboardingView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OnboardingView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OnboardingView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OnboardingView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OnboardingView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OrphanRowView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanRowView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanRowView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanRowView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanRowView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanRowView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OrphansView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphansView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphansView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphansView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphansView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphansView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/RootView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/RootView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/RootView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/RootView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/RootView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/RootView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/SettingsView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SettingsView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SettingsView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SettingsView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SettingsView.dia"
+  },
+  "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/SidebarView.swift": {
+    "dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SidebarView.d",
+    "object": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SidebarView.swift.o",
+    "swiftmodule": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SidebarView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SidebarView.swiftdeps",
+    "diagnostics": "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SidebarView.dia"
+  }
+}

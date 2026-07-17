@@ -1,0 +1,779 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.AppManager-x86_64-unknown-linux-gnu-debug.module" : {
+      "executable" : "/usr/share/swift/usr/bin/swiftc",
+      "fileList" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/sources",
+      "importPath" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/AppManagerApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Formatting.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/InstalledApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/LeftoverFile.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/OrphanFile.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/AppScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/DirectorySize.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/FileCleaner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/FileSystemPaths.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/OrphanScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/PermissionsChecker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Settings/AppSettings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/ViewModels/AppListViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/ViewModels/OrphanListViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AboutView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppRowView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/AppIconView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/ButtonStyles.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/PermissionStatusBadge.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/StatPill.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/ToastView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/FileRowView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OnboardingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OrphanRowView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OrphansView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/RootView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/SidebarView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/swift-version--1BFCD5C06E9F820A.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "AppManager",
+      "moduleOutputPath" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/Modules/AppManager.swiftmodule",
+      "objects" : [
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppManagerApp.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Formatting.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/InstalledApp.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/LeftoverFile.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanFile.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppScanner.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/DirectorySize.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileCleaner.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileSystemPaths.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanScanner.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionsChecker.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppSettings.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Theme.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppListViewModel.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanListViewModel.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AboutView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppDetailView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppRowView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppsView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppIconView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ButtonStyles.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionStatusBadge.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/StatPill.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ToastView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileRowView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OnboardingView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanRowView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphansView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/RootView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SettingsView.swift.o",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SidebarView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-linux-gnu",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j4",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "AppManager_main",
+        "-swift-version",
+        "5",
+        "-g",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "trash_panda",
+        "-Xcc",
+        "-fno-omit-frame-pointer"
+      ],
+      "outputFileMapPath" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppManagerApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Formatting.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/InstalledApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/LeftoverFile.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanFile.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/DirectorySize.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileCleaner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileSystemPaths.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionsChecker.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppSettings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppListViewModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanListViewModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AboutView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppDetailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppRowView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppIconView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ButtonStyles.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionStatusBadge.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/StatPill.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ToastView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileRowView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OnboardingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanRowView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphansView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/RootView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SidebarView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/Modules/AppManager.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/AppManagerApp.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Formatting.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/InstalledApp.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/LeftoverFile.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/OrphanFile.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/AppScanner.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/DirectorySize.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/FileCleaner.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/FileSystemPaths.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/OrphanScanner.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/PermissionsChecker.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Settings/AppSettings.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Theme.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/ViewModels/AppListViewModel.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/ViewModels/OrphanListViewModel.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AboutView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppDetailView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppRowView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppsView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/AppIconView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/ButtonStyles.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/PermissionStatusBadge.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/StatPill.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/ToastView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/FileRowView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OnboardingView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OrphanRowView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OrphansView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/RootView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/SettingsView.swift",
+        "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/SidebarView.swift"
+      ],
+      "tempsPath" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "AppManager" : [
+      "/usr/share/swift/usr/bin/swiftc",
+      "-module-name",
+      "AppManager",
+      "-package-name",
+      "trash_panda",
+      "-c",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/AppManagerApp.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Formatting.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/InstalledApp.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/LeftoverFile.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/OrphanFile.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/AppScanner.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/DirectorySize.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/FileCleaner.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/FileSystemPaths.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/OrphanScanner.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/PermissionsChecker.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Settings/AppSettings.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Theme.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/ViewModels/AppListViewModel.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/ViewModels/OrphanListViewModel.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AboutView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppDetailView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppRowView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppsView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/AppIconView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/ButtonStyles.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/PermissionStatusBadge.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/StatPill.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/ToastView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/FileRowView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OnboardingView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OrphanRowView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OrphansView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/RootView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/SettingsView.swift",
+      "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/SidebarView.swift",
+      "-I",
+      "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/Modules",
+      "-target",
+      "x86_64-unknown-linux-gnu",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j4",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "AppManager_main",
+      "-swift-version",
+      "5",
+      "-g",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "trash_panda",
+      "-Xcc",
+      "-fno-omit-frame-pointer",
+      "-driver-use-frontend-path",
+      "/usr/share/swift/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "AppManager" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/AppManagerApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Formatting.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/InstalledApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/LeftoverFile.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Models/OrphanFile.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/AppScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/DirectorySize.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/FileCleaner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/FileSystemPaths.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/OrphanScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Services/PermissionsChecker.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Settings/AppSettings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/ViewModels/AppListViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/ViewModels/OrphanListViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AboutView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppRowView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/AppsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/AppIconView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/ButtonStyles.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/PermissionStatusBadge.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/StatPill.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/Components/ToastView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/FileRowView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OnboardingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OrphanRowView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/OrphansView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/RootView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/Sources/AppManager/Views/SidebarView.swift"
+        }
+      ],
+      "outputFilePath" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/sources"
+    },
+    "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AboutView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppDetailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppIconView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppListViewModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppManager.swiftmodule.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppManagerApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppRowView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppSettings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/AppsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ButtonStyles.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/DirectorySize.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileCleaner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileRowView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/FileSystemPaths.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Formatting.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/InstalledApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/LeftoverFile.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OnboardingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanFile.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanListViewModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanRowView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphanScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/OrphansView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionStatusBadge.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/PermissionsChecker.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/RootView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/SidebarView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/StatPill.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.build/ToastView.swift.o"
+        }
+      ],
+      "outputFilePath" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/AppManager.product/Objects.LinkFileList"
+    },
+    "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/swift-version--1BFCD5C06E9F820A.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/usr/share/swift/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/home/runner/work/Trash-Panda/Trash-Panda/.build/x86_64-unknown-linux-gnu/debug/swift-version--1BFCD5C06E9F820A.txt"
+    }
+  }
+}
