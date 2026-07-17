@@ -31,7 +31,7 @@ enum FileCleaner {
     private static func moveToTrash(_ url: URL) async -> (trashedURL: URL?, error: Error?) {
         await withCheckedContinuation { continuation in
             NSWorkspace.shared.recycle([url]) { newURLs, error in
-                continuation.resume(returning: (newURLs?[url], error))
+                continuation.resume(returning: (newURLs[url], error))
             }
         }
     }

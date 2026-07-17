@@ -70,24 +70,33 @@ struct AppsView: View {
                 if !viewModel.installedApps.isEmpty {
                     Section("Installed Apps (\(viewModel.installedApps.count))") {
                         ForEach(viewModel.installedApps) { app in
-                            AppRowView(app: app)
-                                .tag(app.id)
-                                .selectionDisabled(app.locked)
+                            appRow(app)
                         }
                     }
                 }
                 if !viewModel.systemApps.isEmpty {
                     Section("System Apps (\(viewModel.systemApps.count))") {
                         ForEach(viewModel.systemApps) { app in
-                            AppRowView(app: app)
-                                .tag(app.id)
-                                .selectionDisabled(app.locked)
+                            appRow(app)
                         }
                     }
                 }
             }
         }
         .listStyle(.inset)
+    }
+
+    @ViewBuilder
+    private func appRow(_ app: InstalledApp) -> some View {
+        if #available(macOS 14.0, *) {
+            AppRowView(app: app)
+                .tag(app.id)
+                .selectionDisabled(app.locked)
+        } else {
+            AppRowView(app: app)
+                .tag(app.id)
+                .disabled(app.locked)
+        }
     }
 
     private func placeholder(text: String, systemImage: String) -> some View {
@@ -120,4 +129,5 @@ struct AppsView: View {
             .frame(maxWidth: .infinity, maxHeight: .infinity)
         }
     }
+
 }
